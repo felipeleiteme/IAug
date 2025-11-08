@@ -1,12 +1,14 @@
 # O Exaesqueleto Mental
 
-> Transforme sua mente em uma orquestra onde você é o maestro dos seus três sistemas de pensamento.
+**Como Usar a Inteligência Artificial para Pensar Melhor, Aprender Mais Rápido e Recuperar o Controle da Sua Vida**
+
+---
 
 ## 📖 Sobre o Livro
 
-**O Exaesqueleto Mental** é um guia prático sobre Amplificação Cognitiva — a habilidade de usar Inteligência Artificial como um copiloto para ampliar sua capacidade de pensar, decidir e criar, sem perder sua humanidade.
+"O Exaesqueleto Mental" apresenta o método **OROCO** — um framework sistemático de 5 passos para construir e operar um parceiro cognitivo de IA personalizado que amplia suas capacidades intelectuais sem substituir seu pensamento.
 
-Este não é mais um livro sobre "produtividade com IA". É sobre algo mais profundo: como orquestrar três sistemas cognitivos (sua intuição, sua razão e a IA) para que você pare de se sentir sobrecarregado e comece a pensar com clareza.
+O livro combina narrativa envolvente, validações científicas e casos de uso reais para ensinar como transformar a IA de uma ferramenta genérica em um **Sistema 0** — seu Copiloto Mental.
 
 ## 🎯 Para Quem É Este Livro
 
@@ -38,95 +40,119 @@ O livro apresenta um framework para orquestrar três "músicos" mentais:
 
 **O objetivo:** Você se torna o **Maestro** dessa orquestra, sabendo quando usar cada sistema.
 
-## 🛠️ O Método OROCO
+### Método OROCO
 
-O livro ensina um processo de 5 fases para construir seu Exaesqueleto Mental:
-
-1. **ORDEM** — Diagnosticar o problema real com F.O.C.O. (Fatos, Emoções, Contexto)
-2. **REFLEXÃO** — Validar se vale investir energia neste desafio
-3. **OURO** — Buscar método científico validado por múltiplas perspectivas de IA
-4. **CONSTRUÇÃO** — Criar seu especialista IA personalizado (KBF bicontextual)
-5. **OPERAÇÃO** — Executar com feedback diário e evolução contínua
-
-## 📚 Estrutura do Livro
-
-### Introdução: O Gerente, a Lista de Tarefas e o Ponto de Colapso
-A história de Carlos, um gestor sobrecarregado que descobre que seu problema não é de produtividade — é cognitivo.
-
-### Capítulo 1: A Orquestra Desafinada
-Por que você se sente exausto: entendendo o conflito entre seus três sistemas cognitivos e como isso causa burnout.
-
-### Capítulo 2: O Nascimento do Copiloto (A IA como Sistema 0)
-A ponte crucial entre o problema e a solução. Apresenta a tese central: **o segredo não é usar a IA, é treiná-la**. Explica o conceito de KBF bicontextual (PhD no assunto + biógrafo especialista em você).
-
-### Capítulo 3: Passo 1 - A Pergunta Certa (O Diagnóstico F.O.C.O.)
-A primeira ferramenta prática do método OROCO. Aprenda a separar Fatos, Emoções e Contexto para eliminar 80% da confusão mental. Inclui validação científica (rotulagem afetiva) e exercício prático.
-
-### Capítulo 4: Passo 2 - O Plano de Batalha (Reflexão e Método Ouro)
-Cobre duas fases estratégicas do OROCO: **REFLEXÃO** (decidir se vale a pena lutar usando Matriz de Investimento) e **OURO** (encontrar a melhor solução validada). Ensina o Debate de IAs (consulta multi-perspectiva) e o Advogado do Diabo (teste de estresse). Casos práticos de Carlos e Ana.
-
-### Parte 2: O Método OROCO *(em desenvolvimento)*
-Os próximos passos práticos: domínio do método, construção de KBF e operação com feedback contínuo.
-
-## 🎓 O Que Você Vai Aprender
-
-- Como **diagnosticar onde está desperdiçando energia cognitiva**
-- Como **construir um copiloto de IA bicontextual** que conhece tanto a ciência quanto seu perfil único
-- Como **validar soluções através de múltiplas perspectivas de IA** (não depender de uma única fonte)
-- Como **treinar seu copiloto** para fazer trabalho cognitivo pesado sem te substituir
-- Como **evoluir o sistema continuamente** com feedback estruturado
-- Como **se tornar o maestro** de três sistemas cognitivos orquestrados
-
-## 📊 Resultados Esperados
-
-Com base na história real de Carlos:
-
-- ⏰ **Redução de 25% nas horas de trabalho** (de 80h para 60h semanais)
-- ⚡ **Decisões 40% mais rápidas**
-- ✅ **73% menos arrependimento** em decisões importantes
-- 🧘 **Clareza mental** substituindo ansiedade constante
-- 👨‍👩‍👧 **Energia preservada** para o que realmente importa
-
-## 🧬 Conceitos Fundamentais
-
-### F.O.C.O. (Framework de Diagnóstico)
-Separar rigorosamente três elementos que a mente mistura:
-- **Fatos**: O que realmente aconteceu (dados objetivos)
-- **Emoções**: Como isso te afeta (escala 1-10, sintomas físicos)
-- **Contexto**: O que você realmente precisa (necessidade profunda)
-
-### KBF (Knowledge-Based Fractals)
-Especialistas de IA personalizados que combinam:
-- **Contexto Externo**: Conhecimento científico validado
-- **Contexto Interno**: Seu perfil único, limitações, recursos, estilo
-
-### Validação Multi-IA
-Testar cada solução crítica através de 4 perspectivas diferentes (ChatGPT, Claude, Gemini, Perplexity) + "Advogado do Diabo" para revelar pontos cegos.
-
-## 🚀 Status do Projeto
-
-Este livro está sendo escrito de forma iterativa e transparente.
-
-- ✅ **Introdução** — Completa (~1.500 palavras)
-- ✅ **Capítulo 1: A Orquestra Desafinada** — Completo (~1.450 palavras)
-- ✅ **Capítulo 2: O Nascimento do Copiloto** — Completo (~1.470 palavras)
-- ✅ **Capítulo 3: O Diagnóstico F.O.C.O.** — Completo (~1.480 palavras)
-- ✅ **Capítulo 4: O Plano de Batalha** — Completo (~1.740 palavras)
-- 🚧 **Capítulo 5: Domínio em 24 Horas** — Em planejamento
-- 📝 **Demais capítulos (Construção e Operação)** — Planejados
-
-**Total escrito:** ~7.640 palavras (~30 páginas)
-
-## 🤝 Sobre o Autor
-
-Este livro é baseado no framework SAC (Sistema de Amplificação Cognitiva), desenvolvido e testado na prática para resolver problemas reais de sobrecarga cognitiva.
-
-## 📝 Licença e Uso
-
-Este material está em desenvolvimento. Todos os direitos reservados.
+1. **ORDEM** — Diagnostique o problema real (F.O.C.O.)
+2. **REFLEXÃO** — Valide que vale investir energia
+3. **OURO** — Encontre o método científico validado
+4. **CONSTRUÇÃO** — Crie seu Mentor Bicontextual (KBF)
+5. **OPERAÇÃO** — Execute com feedback diário e evolução contínua
 
 ---
 
-> "A genialidade moderna não está em ter um cérebro mais rápido, mas em saber quando usar intuição (Sistema 1), quando exigir análise rigorosa (Sistema 2), e quando delegar para inteligência artificial (Sistema 0)."
+## 📂 Estrutura do Projeto
 
-**Transforme três músicos desafinados em uma sinfonia.**
+```
+IAug/
+├── manuscrito/           # Conteúdo principal do livro
+│   ├── capitulos/       # Arquivos Markdown de cada capítulo
+│   │   ├── Introducao.md
+│   │   ├── Capitulo_1.md a Capitulo_10.md
+│   │   └── Conclusao.md
+│   ├── metadata.yaml    # Metadados do livro (autor, título, etc.)
+│   └── SUMARIO.md       # Sumário detalhado do livro
+│
+├── build/               # Arquivos compilados
+│   └── O_Exaesqueleto_Mental.epub
+│
+├── docs/                # Documentação e referências
+│   └── referencias/     # Pesquisas e materiais de referência
+│
+└── README.md            # Este arquivo
+```
+
+---
+
+## 🚀 Como Gerar o EPUB
+
+O livro pode ser compilado em formato EPUB usando Pandoc:
+
+```bash
+# Certifique-se de ter o Pandoc instalado
+brew install pandoc  # macOS
+
+# Gerar o EPUB
+cd manuscrito
+pandoc metadata.yaml \
+  capitulos/Introducao.md \
+  capitulos/Capitulo_*.md \
+  capitulos/Conclusao.md \
+  -o ../build/O_Exaesqueleto_Mental.epub \
+  --toc \
+  --toc-depth=2 \
+  --split-level=1
+```
+
+---
+
+## 📚 Conteúdo
+
+### Parte 1: A Mente Sobrecarregada
+
+- **Introdução:** O Gerente, a Lista de Tarefas e o Ponto de Colapso
+- **Capítulo 1:** A Orquestra Desafinada (Seus Três Cérebros)
+- **Capítulo 2:** O Nascimento do Copiloto (A IA como Sistema 0)
+
+### Parte 2: O Método
+
+- **Capítulo 3:** Passo 1 - A Pergunta Certa (O Diagnóstico F.O.C.O.)
+- **Capítulo 4:** Passo 2 - O Plano de Batalha (Reflexão e Método Ouro)
+- **Capítulo 5:** Passo 3 - O Domínio Acelerado
+- **Capítulo 6:** Passo 4 - Dando um Rosto ao Mentor (A Construção do KBF)
+- **Capítulo 7:** Passo 5 - O Círculo Virtuoso (A Operação na Vida Real)
+
+### Parte 3: O Exaesqueleto em Ação
+
+- **Capítulo 8:** O Caso da "Empreendedora Improvável" (Ana e o Mercado Livre)
+- **Capítulo 9:** O Caso do "Pai que Virou Pedagogo" (O Método para Gabriel)
+- **Capítulo 10:** O Caso da "Analista Liberta" (A Automação de 6 Horas)
+
+### Conclusão
+
+- **Conclusão:** O Novo Mínimo Viável é Ser Genial
+
+---
+
+## 🔬 Validações Científicas
+
+O método OROCO é fundamentado em pesquisas científicas sobre:
+
+- **Amplificação Cognitiva** (Inteligência Aumentada - IAug)
+- **Framework "System 0"** — IA como extensão cognitiva ativa
+- **Enhanced Cognitive Scaffolding** — Andaime Cognitivo Aprimorado
+- **Offloading Cognitivo** vs. Amplificação verdadeira
+- **Rotulagem Afetiva** (Affect Labeling) — validado pela TCC
+- **Loop de Feedback do Viés Cognitivo**
+- **Parceiro Cognitivo Dinâmico** — IA como co-criador
+
+Referências completas disponíveis em `docs/referencias/`.
+
+---
+
+## ✍️ Autor
+
+**Felipe Leite**
+
+---
+
+## 📄 Licença
+
+© 2025 Felipe Leite. Todos os direitos reservados.
+
+---
+
+## 🤖 Gerado com
+
+Este projeto foi desenvolvido com assistência de [Claude Code](https://claude.com/claude-code).
+
+Co-Authored-By: Claude <noreply@anthropic.com>
