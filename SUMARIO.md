@@ -130,13 +130,13 @@
 - **A Dor:** Analista financeira perdendo 6 horas toda sexta em relatório manual que odiava
 - **A Virada:** Ela gravou a tela e disse ao KBF: "Assista e me diga como automatizar"
 - **O Loop Evolutivo Aplicado:** KBF analisou vídeo, identificou 4 blocos automatizáveis
-- **O Processo:**
-  - Semana 1: Automação de coleta de dados (Google Sheets + API)
-  - Semana 2: Automação de cálculos (fórmulas avançadas)
-  - Semana 3: Automação de formatação (script Python)
-  - Semana 4: Automação de envio (integração e-mail)
-- **A Transformação:** 6 horas → 10 minutos (redução de 98%)
-- **A Lição:** Você não precisa saber programar — precisa saber pedir
+- **O Processo (no-code via Power Automate):**
+  - Semana 1: Automação de extração de CSVs (RPA de tela)
+  - Semana 2: Automação de transformação de dados (Power Query)
+  - Semana 3: Automação de criação de gráficos (templates PPT dinâmicos)
+  - Semana 4: Automação de envio de e-mails (Power Automate)
+- **A Transformação:** 6 horas → 45 minutos (redução de 87,5%), 273 horas/ano recuperadas
+- **A Lição:** Você não precisa saber programar — precisa saber mostrar o problema para a IA
 
 ---
 
