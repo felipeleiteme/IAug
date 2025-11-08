@@ -46,11 +46,11 @@ Vê a diferença? Fatos são neutros. Frios. Incontestáveis. E é exatamente po
 
 Aqui está onde a mágica acontece. E não é mágica — é neurociência.
 
-Existe um estudo fascinante sobre algo chamado **"rotulagem afetiva"** (affect labeling). Pesquisadores descobriram que quando você *nomeia* uma emoção — literalmente diz ou escreve "Estou sentindo frustração, nível 8/10" — algo acontece no seu cérebro:
+Existe um estudo fascinante sobre algo chamado **"rotulagem afetiva"** (affect labeling), uma técnica validada pela terapia cognitivo-comportamental (TCC). Pesquisadores descobriram que quando você *nomeia* uma emoção — literalmente diz ou escreve "Estou sentindo frustração, nível 8/10" — algo acontece no seu cérebro:
 
 A atividade na **amígdala** (seu centro de alarme emocional, parte do Piloto Automático) *diminui*. Ao mesmo tempo, a atividade no **córtex pré-frontal** (seu CEO Focado) *aumenta*.
 
-Em português simples: nomear a emoção acalma o pânico e ativa seu pensamento racional.
+Em português simples: nomear a emoção acalma o pânico e ativa seu pensamento racional. Essa técnica de rotulagem afetiva é um dos pilares da TCC moderna, e funciona precisamente porque desarma a resposta automática de luta-ou-fuga.
 
 Não é "frescura". Não é "perda de tempo". É literalmente reprogramar a biologia do seu cérebro para que o CEO Focado possa voltar ao comando.
 

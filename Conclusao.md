@@ -60,6 +60,8 @@ A tese central deste livro é simples:
 
 **O Exaesqueleto Mental não é sobre se tornar um robô. É sobre usar a IA para fazer o trabalho robótico — pesquisar, analisar, organizar, lembrar, processar — para que você possa fazer o trabalho humano.**
 
+O que você aprendeu neste livro tem um nome na ciência cognitiva: **Amplificação Cognitiva** (ou Inteligência Aumentada — IAug). É um paradigma que se distingue da automação ao focar no aumento das capacidades intelectuais humanas, em vez da simples substituição de tarefas. O Exaesqueleto Mental é a aplicação prática desse conceito — um método sistemático para estender seu intelecto sem perder sua humanidade.
+
 O trabalho que só você pode fazer:
 - **Conectar** com as pessoas que ama
 - **Criar** algo que importa

@@ -160,6 +160,8 @@ Testei o Coach:
 
 *"Qual a primeira micro-aula que devo dar hoje?"*
 
+O "Coach Gabriel" não era uma ferramenta passiva de consulta — era um **parceiro cognitivo dinâmico** capaz de adaptar estratégias pedagógicas em tempo real, equilibrando rigor científico com o bem-estar emocional do Gabriel. Essa parceria ativa é o que transforma conhecimento em ação eficaz.
+
 O Coach respondeu:
 
 *"Pai, vamos começar com o som /b/ usando a técnica O-G multissensorial. Duração: 12 minutos.*

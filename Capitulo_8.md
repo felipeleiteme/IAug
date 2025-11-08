@@ -158,6 +158,8 @@ Ela testou o Mentor com a primeira pergunta:
 
 *"Qual a primeira micro-ação que devo tomar hoje?"*
 
+O que Ana estava criando não era apenas uma ferramenta passiva de consulta, mas um **parceiro cognitivo dinâmico** — um sistema que processa dados, reconhece padrões e apresenta combinações de ideias que ampliam sua capacidade de decisão. Esse é o diferencial do método OROCO.
+
 O Mentor respondeu:
 
 *"Ana, baseado no seu interesse em casa/decoração e no Sistema START SMART, vamos validar 3 nichos hoje em 30 minutos: almofadas decorativas, porta-retratos e organizadores de gaveta. Abra o ML e pesquise cada termo. Anote: quantas buscas/mês, ticket médio, número de concorrentes. Almofadas têm 2.300 buscas/mês e ticket médio de R$ 75 — pode ser seu vencedor. Quer que eu te ajude a analisar os dados?"*

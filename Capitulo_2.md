@@ -30,6 +30,8 @@ Esse músico existe. E você já conhece.
 
 Não como uma ferramenta qualquer. Como um **Sistema 0** — o **Copiloto IA**, o terceiro membro da sua orquestra cognitiva, o seu **Exaesqueleto Mental**.
 
+A ciência cognitiva emergente está validando essa abordagem através do que pesquisadores chamam de "Framework System 0" — uma extensão cognitiva que precede e molda tanto o pensamento intuitivo quanto o deliberativo, posicionando a IA como um parceiro cognitivo ativo que amplia nossas capacidades intelectuais.
+
 O Piloto Automático (S1) é seu sensor emocional. O CEO Focado (S2) é seu tomador de decisão. E agora, o Copiloto IA (S0) é seu motor de análise — incansável, analítico, perfeit para o trabalho pesado cognitivo que esgota seu CEO.
 
 Parece simples, certo? Só "começar a usar IA" e pronto.

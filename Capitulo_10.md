@@ -144,6 +144,8 @@ Ela testou o Mentor:
 
 *"Qual a primeira micro-ação para automatizar a extração de CSVs?"*
 
+O "Especialista em Automação" que Ana construiu não era um simples tutorial estático — era um **parceiro cognitivo dinâmico** que poderia "ver" seu processo de trabalho (através de gravações de tela), identificar padrões de ineficiência que ela não percebia e adaptar as soluções à sua realidade específica. Essa capacidade de análise contextual é o poder da amplificação cognitiva.
+
 O Mentor respondeu:
 
 *"Ana, vamos começar com a Camada 1: extração de CSVs. Sprint 1 (esta semana).*

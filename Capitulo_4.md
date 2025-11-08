@@ -226,6 +226,8 @@ Agora vem a parte crucial:
 
 Por quê? Porque planos bonitos no papel falham feio na vida real quando esbarram em: resistência humana, falta de recursos, variáveis imprevistas, seus próprios pontos cegos.
 
+E há um perigo ainda mais sutil: sem essa crítica implacável, você pode cair no que a pesquisa chama de "Loop de Feedback do Viés Cognitivo" — onde a IA aprende e amplifica seus próprios pontos cegos, criando um ciclo vicioso de confirmação mútua. O Advogado do Diabo quebra esse loop.
+
 É aqui que entra o **Advogado do Diabo**.
 
 ### Como funciona:

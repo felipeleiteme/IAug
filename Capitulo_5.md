@@ -38,7 +38,7 @@ A IA genérica — o "estagiário genérico" do Capítulo 2 — não *entende* o
 
 E o pior: você vai aceitar. Porque você também não domina o método.
 
-Isso não é usar a IA. Isso é **Delegação Cognitiva Cega** — terceirizar seu pensamento para uma máquina que não pode realmente pensar por você.
+Isso não é usar a IA. Isso é **Delegação Cognitiva Cega** — terceirizar seu pensamento para uma máquina que não pode realmente pensar por você. A ciência cognitiva chama isso de "offloading cognitivo" (descarga cognitiva), um fenômeno que, quando mal gerenciado, pode levar à atrofia de habilidades e à "preguiça metacognitiva" — você para de pensar *sobre* como você pensa.
 
 ## A regra de ouro do exaesqueleto mental: domine antes de delegar
 
@@ -52,11 +52,13 @@ A tese central deste capítulo é simples:
 
 **Você não vai usar a IA como uma** ***assistente***. **Você vai usá-la como uma** ***Universidade Pessoal*** **para se tornar um especialista no "Método Ouro" o mais rápido possível.**
 
-A ciência valida isso. Chama-se **"Enhanced Cognitive Scaffolding"** (Andaime Cognitivo Aprimorado).
+A ciência valida isso. Chama-se **"Enhanced Cognitive Scaffolding"** (Andaime Cognitivo Aprimorado) — um framework desenvolvido por pesquisadores em amplificação cognitiva que reconceitua a IA de um assistente passivo para um mentor ativo e dinâmico.
 
 Pense em como se constrói um prédio. Você usa andaimes para alcançar as alturas. Os andaimes te sustentam enquanto você trabalha. Mas quando o prédio está pronto, você *remove* os andaimes.
 
 A IA é o andaime. O prédio é o seu conhecimento. Você usa o andaime para construir mais rápido. Mas o prédio fica *em você*. Se você deixar os andaimes permanentemente, você nunca terá um prédio de verdade — só uma estrutura dependente de suportes externos.
+
+O "Enhanced Cognitive Scaffolding" integra três dimensões: **Autonomia Progressiva** (o suporte da IA diminui conforme sua competência aumenta), **Personalização Adaptativa** (adapta-se às suas necessidades específicas) e **Otimização da Carga Cognitiva** (equilibra o esforço mental para maximizar aprendizagem). Essa abordagem prioriza o desenvolvimento cognitivo sobre a mera conveniência.
 
 Domínio ativo significa:
 - Você consegue explicar o método para outra pessoa
