@@ -56,8 +56,14 @@ A história de Carlos, um gestor sobrecarregado que descobre que seu problema n�
 ### Capítulo 1: A Orquestra Desafinada
 Por que você se sente exausto: entendendo o conflito entre seus três sistemas cognitivos e como isso causa burnout.
 
+### Capítulo 2: O Nascimento do Copiloto (A IA como Sistema 0)
+A ponte crucial entre o problema e a solução. Apresenta a tese central: **o segredo não é usar a IA, é treiná-la**. Explica o conceito de KBF bicontextual (PhD no assunto + biógrafo especialista em você).
+
+### Capítulo 3: Passo 1 - A Pergunta Certa (O Diagnóstico F.O.C.O.)
+A primeira ferramenta prática do método OROCO. Aprenda a separar Fatos, Emoções e Contexto para eliminar 80% da confusão mental. Inclui validação científica (rotulagem afetiva) e exercício prático.
+
 ### Parte 2: O Método OROCO *(em desenvolvimento)*
-O passo a passo prático para construir e treinar seu copiloto de IA pessoal.
+Os próximos passos práticos para construir e treinar seu copiloto de IA pessoal.
 
 ## 🎓 O Que Você Vai Aprender
 
@@ -98,10 +104,12 @@ Testar cada solução crítica através de 4 perspectivas diferentes (ChatGPT, C
 
 Este livro está sendo escrito de forma iterativa e transparente.
 
-- ✅ **Introdução** — Completa
-- ✅ **Capítulo 1** — Completo
-- 🚧 **Parte 2 (Método OROCO)** — Em desenvolvimento
-- 📝 **Demais capítulos** — Planejados
+- ✅ **Introdução** — Completa (~1.500 palavras)
+- ✅ **Capítulo 1: A Orquestra Desafinada** — Completo (~1.450 palavras)
+- ✅ **Capítulo 2: O Nascimento do Copiloto** — Completo (~1.470 palavras)
+- ✅ **Capítulo 3: O Diagnóstico F.O.C.O.** — Completo (~1.480 palavras)
+- 🚧 **Capítulo 4: A Caça ao Método Ouro** — Em planejamento
+- 📝 **Demais capítulos (OROCO)** — Planejados
 
 ## 🤝 Sobre o Autor
 
