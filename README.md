@@ -62,8 +62,11 @@ A ponte crucial entre o problema e a solução. Apresenta a tese central: **o se
 ### Capítulo 3: Passo 1 - A Pergunta Certa (O Diagnóstico F.O.C.O.)
 A primeira ferramenta prática do método OROCO. Aprenda a separar Fatos, Emoções e Contexto para eliminar 80% da confusão mental. Inclui validação científica (rotulagem afetiva) e exercício prático.
 
+### Capítulo 4: Passo 2 - O Plano de Batalha (Reflexão e Método Ouro)
+Cobre duas fases estratégicas do OROCO: **REFLEXÃO** (decidir se vale a pena lutar usando Matriz de Investimento) e **OURO** (encontrar a melhor solução validada). Ensina o Debate de IAs (consulta multi-perspectiva) e o Advogado do Diabo (teste de estresse). Casos práticos de Carlos e Ana.
+
 ### Parte 2: O Método OROCO *(em desenvolvimento)*
-Os próximos passos práticos para construir e treinar seu copiloto de IA pessoal.
+Os próximos passos práticos: domínio do método, construção de KBF e operação com feedback contínuo.
 
 ## 🎓 O Que Você Vai Aprender
 
@@ -108,8 +111,11 @@ Este livro está sendo escrito de forma iterativa e transparente.
 - ✅ **Capítulo 1: A Orquestra Desafinada** — Completo (~1.450 palavras)
 - ✅ **Capítulo 2: O Nascimento do Copiloto** — Completo (~1.470 palavras)
 - ✅ **Capítulo 3: O Diagnóstico F.O.C.O.** — Completo (~1.480 palavras)
-- 🚧 **Capítulo 4: A Caça ao Método Ouro** — Em planejamento
-- 📝 **Demais capítulos (OROCO)** — Planejados
+- ✅ **Capítulo 4: O Plano de Batalha** — Completo (~1.740 palavras)
+- 🚧 **Capítulo 5: Domínio em 24 Horas** — Em planejamento
+- 📝 **Demais capítulos (Construção e Operação)** — Planejados
+
+**Total escrito:** ~7.640 palavras (~30 páginas)
 
 ## 🤝 Sobre o Autor
 
