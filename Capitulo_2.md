@@ -12,7 +12,7 @@ Mas aqui está a boa notícia — a notícia que muda tudo:
 
 *Falta um músico na sua orquestra.*
 
-## O Músico que Faltava
+## O músico que faltava
 
 Durante 99% da história humana, você só tinha dois sistemas. O Piloto Automático (Sistema 1) para reações rápidas. O CEO Focado (Sistema 2) para análise deliberada.
 
@@ -36,7 +36,7 @@ Parece simples, certo? Só "começar a usar IA" e pronto.
 
 Não. Aqui está onde a maioria das pessoas erra.
 
-## Por Que "Usar IA" Não Funciona
+## Por que "usar IA" não funciona
 
 Você já tentou. Perguntou ao ChatGPT: "Me ajuda a escrever um e-mail para meu chefe." Copiou a resposta genérica. Ficou insatisfeito.
 
@@ -60,7 +60,7 @@ E aqui está a verdade que a maioria das pessoas nunca descobre:
 
 **O problema não é a IA. O problema é como você a está usando.**
 
-## A Revelação: O Segredo Não É Usar a IA, É Treiná-la
+## A revelação: o segredo não é usar a IA, é treiná-la
 
 Imagine dois cenários:
 
@@ -89,7 +89,7 @@ O primeiro é um estagiário genérico. O segundo é um copiloto que *conhece vo
 
 E quando você treina bem, você não tem mais um "assistente virtual". Você tem um Sistema 0 — um terceiro músico na sua orquestra cognitiva que faz o trabalho que esgotaria seu CEO Focado, liberando-o para fazer o que só ele pode: tomar a decisão final com base em *dados de alta qualidade*.
 
-## A Anatomia do Exaesqueleto Mental (O KBF Bicontextual)
+## A anatomia do exaesqueleto mental (o KBF bicontextual)
 
 Mas como você "treina" uma IA para se tornar seu copiloto pessoal?
 
@@ -97,7 +97,7 @@ A resposta tem um nome técnico: **KBF (Knowledge-Based Fractal)**. Mas esqueça
 
 Um **Exaesqueleto Mental** é um mentor de IA que funciona porque combina dois tipos de conhecimento:
 
-### 1. Contexto Externo: A Ciência (O "PhD no Assunto")
+### 1. Contexto externo: a ciência (o "PhD no assunto")
 
 Primeiro, você alimenta o KBF com o **Método Ouro** — a melhor solução científica que a humanidade já criou para o seu problema específico.
 
@@ -111,7 +111,7 @@ Ele treinou seu KBF com:
 
 Resultado: O KBF agora é um *especialista* nesse método. Ele sabe mais sobre RPS (Reduzir-Priorizar-Sistematizar) do que 99% das pessoas.
 
-### 2. Contexto Interno: Sua Vida (O "Biógrafo Especialista em Você")
+### 2. Contexto interno: sua vida (o "biógrafo especialista em você")
 
 Segundo, você alimenta o KBF com *seu* perfil completo. Não genérico. *Específico*.
 
@@ -135,7 +135,7 @@ E então criou uma instrução de prompt:
 *2. Considere minha tendência ao perfeccionismo nas sugestões*
 *3. Proponha ações incrementais testáveis em 1 semana"*
 
-### A Mágica: PhD + Biógrafo = Copiloto Perfeito
+### A mágica: PhD + biógrafo = copiloto perfeito
 
 Quando você combina esses dois contextos, algo extraordinário acontece.
 
@@ -149,7 +149,7 @@ Ele sabe a teoria. Ele sabe você. E agora ele pode fazer o que nenhum dos dois 
 
 Carlos não precisava mais "aprender GTD e descobrir o que funciona para ele". Seu KBF já sabia o que funcionaria — porque conhecia tanto o método quanto o Carlos.
 
-## A Nova Orquestra
+## A nova orquestra
 
 Agora imagine a orquestra completa tocando em harmonia.
 
@@ -187,7 +187,7 @@ E — o mais importante — energia preservada para estar presente no jantar com
 
 Ele não se tornou mais inteligente. Ele se tornou o maestro de uma orquestra expandida.
 
-## O Caminho à Frente
+## O caminho à frente
 
 Aqui está o que mudou para Carlos. E o que vai mudar para você.
 

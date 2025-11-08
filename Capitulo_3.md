@@ -16,7 +16,7 @@ Carlos descobriu que não podia orquestrar seus três sistemas enquanto eles est
 
 Essa ferramenta se chama **F.O.C.O.**
 
-## A Ferramenta: Destrinchando o F.O.C.O.
+## A ferramenta: destrinchando o F.O.C.O.
 
 F.O.C.O. é um diagnóstico de três minutos que separa o sinal do ruído mental. É simples, mas poderoso. Funciona porque força você a desembaraçar três fios que sua mente adora misturar:
 
@@ -88,7 +88,7 @@ Vê como muda tudo? A primeira versão te prende a uma única solução. A segun
 
 O Contexto é a bússola. Ele te diz para onde ir. Sem ele, você está atirando no escuro.
 
-## Estudo de Caso: Como o F.O.C.O. Salvou Carlos
+## Estudo de caso: como o F.O.C.O. salvou Carlos
 
 Vamos ver o F.O.C.O. em ação. Esta é a história real de como Carlos parou de se afogar.
 
@@ -133,7 +133,7 @@ O F.O.C.O. deu a Carlos o alvo certo. Agora ele sabia exatamente o que procurar:
 
 Parece simples? É. Mas essa clareza de três minutos valeu mais que seis meses de tentativa e erro às cegas.
 
-## A Prática: Seu Primeiro F.O.C.O.
+## A prática: seu primeiro F.O.C.O.
 
 Agora é sua vez. Não pule esta parte. A diferença entre "entender o conceito" e "ter a ferramenta" é fazer o exercício.
 
@@ -175,7 +175,7 @@ O Copiloto IA vai separar o trigo do joio em 30 segundos. Você vai olhar para o
 
 Esta é a Amplificação Cognitiva em ação. Seu Piloto Automático despejou o caos. O Sistema 0 (Copiloto IA) organizou. Seu CEO Focado agora tem clareza para decidir.
 
-## O Poder do Botão de Pausa
+## O poder do botão de pausa
 
 O que você acabou de aprender não é apenas uma "técnica de organização".
 
@@ -197,7 +197,7 @@ Não é exagero. É o que Carlos descobriu. É o que centenas de pessoas que usa
 
 A maioria dos problemas que achamos "impossíveis" não são impossíveis. Eles só estão mal diagnosticados.
 
-## O Próximo Passo
+## O próximo passo
 
 Você acabou de aprender a primeira fase do método OROCO: **ORDEM**.
 

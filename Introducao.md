@@ -6,7 +6,7 @@ Ele havia prometido. Dessa vez seria diferente. Ele chegaria a tempo para o jant
 
 Carlos ligou o carro. O silêncio do trajeto até em casa era ensurdecedor. Não era só cansaço. Era algo mais profundo. Uma sensação de estar se afogando em águas rasas. Ele não estava falhando por falta de esforço. Estava falhando *apesar* do esforço. E o pior: ele achava que a culpa era dele.
 
-## A Ilusão da Solução Mágica
+## A ilusão da solução mágica
 
 Seis meses antes, Carlos tinha comprado seu quarto aplicativo de produtividade. Este prometia ser diferente: blocos de tempo coloridos, notificações inteligentes, gamificação de tarefas. Por duas semanas, ele acordou às 5h30 para "vencer o dia". Adotou o método Pomodoro. Leu três livros sobre gestão do tempo. Tentou delegar mais. Aprendeu a dizer "não" (pelo menos em teoria).
 
@@ -16,7 +16,7 @@ A verdade é que Carlos estava lutando contra o inimigo errado. Ele acreditava q
 
 O problema não era Carlos. Era o que ele estava pedindo para seu cérebro fazer.
 
-## Você Não Está Sozinho
+## Você não está sozinho
 
 Se você se reconhece na história de Carlos, respire fundo. Você não é fraco. Você não é indisciplinado. E definitivamente não está sozinho.
 
@@ -36,7 +36,7 @@ Aqui está o problema: a vida moderna força seu CEO Focado a fazer trabalho bra
 
 O burnout moderno não é sobre trabalhar demais. É sobre pensar demais nas coisas erradas.
 
-## A Verdadeira Natureza do Problema
+## A verdadeira natureza do problema
 
 Certa noite, depois de perder mais um jantar de família, Carlos teve uma revelação. Estava revendo suas anotações de uma reunião — algo sobre otimização de processos na manufatura — quando uma frase saltou da página: "Exaesqueletos industriais aumentam a capacidade de carga em 300% sem desgaste físico do operador."
 
@@ -62,7 +62,7 @@ Mas Carlos não consultava apenas uma IA. Ele validava cada solução crítica a
 
 O resultado? Métodos cientificamente validados, testados contra múltiplas perspectivas antes de investir energia na implementação. Não era intuição. Era engenharia cognitiva.
 
-## O Que Este Livro Não É
+## O que este livro não é
 
 Vamos ser claros desde já: este livro não é sobre como a IA vai "resolver sua vida magicamente" ou "substituir seu trabalho." Não é uma promessa vazia de produtividade milagrosa em três passos fáceis.
 
@@ -70,7 +70,7 @@ A IA, por si só, não resolve nada. Ela pode até piorar as coisas se você nã
 
 Este livro é sobre algo mais profundo. É sobre um **método**. Um sistema específico, testado e refinado, que Carlos desenvolveu para construir e treinar seu próprio copiloto de IA pessoal — seu Exaesqueleto Mental.
 
-## O Método: OROCO
+## O método: OROCO
 
 O sistema que Carlos desenvolveu segue cinco fases precisas:
 
@@ -91,7 +91,7 @@ Cada fase te ensina a:
 
 Não é mágica. É arquitetura cognitiva. É aprender a pensar de uma forma fundamentalmente nova.
 
-## A Promessa
+## A promessa
 
 Três meses depois daquela noite no estacionamento, Carlos estava em casa. Eram 18h15. Ele ajudou a filha com a lição de matemática, jantou com a família e ainda teve energia para assistir um filme com a esposa.
 

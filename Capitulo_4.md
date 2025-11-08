@@ -24,7 +24,7 @@ Essas duas perguntas — Reflexão e Método Ouro — são a diferença entre es
 
 Vamos aprender a respondê-las.
 
-## A Armadilha do Executor
+## A armadilha do executor
 
 Existe um tipo de pessoa que todos admiramos: o executor. O "fazedor". Aquele que "não fica só no papo, vai lá e faz".
 
@@ -49,7 +49,7 @@ O Exaesqueleto Mental te transforma em estrategista. E estrategistas fazem duas 
 
 Vamos para a primeira.
 
-## Fase da REFLEXÃO: Vale a Pena Lutar?
+## Fase da reflexão: vale a pena lutar?
 
 Seu CEO Focado (Sistema 2) tem bateria limitada. Lembra? Ele é poderoso, mas se cansa rápido.
 
@@ -114,7 +114,7 @@ Ana também.
 
 E agora vem a segunda pergunta.
 
-## Fase do OURO: Não Reinvente a Roda
+## Fase do ouro: não reinvente a roda
 
 Você decidiu lutar. Ótimo.
 
@@ -149,7 +149,7 @@ Ana precisava do Método Ouro para "começar e-commerce do zero com recursos lim
 
 Como eles encontraram?
 
-## Ferramenta Prática 1: O Conselho de Sábios (Debate de IAs)
+## Ferramenta prática 1: o conselho de sábios (debate de IAs)
 
 Antigamente, encontrar o Método Ouro era privilégio de quem tinha acesso a universidades, consultores caros, ou anos de tentativa e erro.
 
@@ -216,7 +216,7 @@ Esse consenso entre múltiplas IAs é o seu **Método Ouro** bruto.
 
 Mas ainda não está pronto.
 
-## Ferramenta Prática 2: O Advogado do Diabo (Teste de Estresse)
+## Ferramenta prática 2: o advogado do diabo (teste de estresse)
 
 Você tem um plano que parece perfeito. Quatro IAs concordaram. Tem base científica. Casos de sucesso.
 
@@ -276,7 +276,7 @@ Salvaguardas dela:
 - **MVP ultra-mínimo**: Testar com apenas 5 unidades do produto antes de comprar estoque. Custo máximo R$ 300 no primeiro teste.
 - **Lista de 3 fornecedores** para cada produto, não apenas 1.
 
-## O Método Ouro Final
+## O método ouro final
 
 Agora Carlos e Ana tinham algo que 99% das pessoas nunca têm:
 
@@ -305,7 +305,7 @@ Eles não iriam mais "tentar e ver o que funciona". Eles iriam *executar o méto
 
 Diferença colossal.
 
-## O Plano de Batalha Está Pronto
+## O plano de batalha está pronto
 
 Recapitule o que você acabou de aprender.
 

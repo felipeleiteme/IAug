@@ -14,7 +14,7 @@ Pare.
 
 Esta é a armadilha mais perigosa de todas. E é aqui que 99% das pessoas desperdiçam meses — ou anos — de energia.
 
-## A Armadilha da Delegação (A Grande Tentação)
+## A armadilha da delegação (a grande tentação)
 
 Você está segurando o mapa do tesouro. O "Método Ouro" é real, validado, pronto para usar. Seu instinto diz: "Agora é só executar. Vou automatizar. Vou delegar para a IA."
 
@@ -40,7 +40,7 @@ E o pior: você vai aceitar. Porque você também não domina o método.
 
 Isso não é usar a IA. Isso é **Delegação Cognitiva Cega** — terceirizar seu pensamento para uma máquina que não pode realmente pensar por você.
 
-## A Regra de Ouro do Exaesqueleto Mental: Domine Antes de Delegar
+## A regra de ouro do exaesqueleto mental: domine antes de delegar
 
 Aqui está a verdade incômoda:
 
@@ -65,7 +65,7 @@ Domínio ativo significa:
 - Você antecipa onde o método pode falhar
 - Você **não precisa** da IA para tomar decisões — mas escolhe usá-la para amplificar sua capacidade
 
-## Estudo de Caso: O Pai que Precisava Saber Mais
+## Estudo de caso: o pai que precisava saber mais
 
 Lembra da história da Introdução? O pai cujo filho tinha dislexia?
 
@@ -87,7 +87,7 @@ Depois de 3 semanas estudando *com* a IA (não delegando *para* a IA), ele sabia
 
 E funcionou. Porque o mentor não estava operando sozinho. Estava amplificando um humano que dominava o método.
 
-## O Método Prático: O Kit de Aprendizagem Multimodal
+## O método prático: o kit de aprendizagem multimodal
 
 Agora vem a parte prática. Como você aprende o "Método Ouro" (ex: "START SMART" de Ana ou "RPS" de Carlos) da forma mais rápida e profunda possível?
 
@@ -137,7 +137,7 @@ Você não está procurando respostas genéricas na internet. Você está criand
 
 É como ter um tutor particular que leu exatamente os mesmos materiais que você e pode te fazer perguntas, explicar conceitos e testar seu conhecimento.
 
-## O Teste Final: O "Tutor Socrático Rigoroso"
+## O teste final: o "tutor socrático rigoroso"
 
 Depois de uma semana estudando com o Kit de Aprendizagem Multimodal, você está pronto?
 
@@ -187,7 +187,7 @@ Ana fez o mesmo com o START SMART. Passou 2 horas respondendo. Na primeira tenta
 
 Ela voltou. Refletiu. Refez. Passou.
 
-## Conclusão (O Gancho para o Próximo Capítulo)
+## Conclusão (o gancho para o próximo capítulo)
 
 Agora você não é mais um *novato* no problema.
 

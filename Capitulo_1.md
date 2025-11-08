@@ -10,13 +10,13 @@ Você não é preguiçoso. Você não é desorganizado. Você não precisa de ma
 
 Estamos tentando rodar um software mental de 10.000 anos atrás em um mundo hiper-conectado. É como tentar assistir Netflix em uma TV de tubo. O hardware não foi feito para isso.
 
-## A Batalha Invisível Dentro de Você
+## A batalha invisível dentro de você
 
 Imagine que sua mente é uma orquestra. Mas não uma orquestra harmoniosa, tocando uma sinfonia coordenada. Imagine três músicos talentosos, cada um tentando liderar, tocando partituras diferentes, ao mesmo tempo, sem um maestro.
 
 É isso que acontece na sua cabeça todos os dias. E até você entender quem são esses músicos e por que eles brigam, você continuará exausto.
 
-### Músico 1: O Piloto Automático
+### Músico 1: o piloto automático
 
 O primeiro músico é o mais antigo. Vive em você há milhares de gerações. Chamamos ele de **Piloto Automático** (Sistema 1).
 
@@ -38,7 +38,7 @@ Ele é *impulsivo*. Quer recompensa agora. É por isso que você pega o celular 
 
 O Piloto Automático é poderoso, mas péssimo em decisões complexas. E a vida moderna é feita de decisões complexas.
 
-### Músico 2: O CEO Focado
+### Músico 2: o CEO focado
 
 O segundo músico é mais jovem. Apareceu nos últimos milhares de anos. Chamamos ele de **CEO Focado** (Sistema 2).
 
@@ -58,7 +58,7 @@ Pense nele como uma bateria com carga limitada. Cada decisão, cada análise, ca
 
 É por isso que você chega em casa depois de um dia de trabalho intenso e não tem energia para brincar com seus filhos, mesmo querendo muito. A bateria acabou.
 
-## A Armadilha Moderna: O CEO Fazendo Trabalho de Estagiário
+## A armadilha moderna: o CEO fazendo trabalho de estagiário
 
 Aqui está o problema central da vida moderna — a razão pela qual você se sente exausto.
 
@@ -78,7 +78,7 @@ Não é falta de vontade. É falta de energia cognitiva.
 
 Você não é fraco. Seu CEO Focado só está fazendo o trabalho errado.
 
-## O Conflito: Por Que Eles Brigam
+## O conflito: por que eles brigam
 
 Carlos percebia isso. Domingo à noite, ele planejava a semana perfeitamente. Seu CEO Focado estava descansado, com bateria cheia. "Segunda-feira vou acordar cedo, fazer exercício, trabalhar focado, jantar com a família."
 
@@ -94,7 +94,7 @@ Durante o dia, uma notificação chegava. O Piloto Automático reagia: urgente! 
 
 Não era falta de disciplina. Era uma batalha cognitiva que ele estava perdendo sem nem saber que existia.
 
-## O Músico que Faltava
+## O músico que faltava
 
 E se pudéssemos devolver ao CEO Focado seu verdadeiro poder?
 
@@ -122,7 +122,7 @@ Ele é o *copiloto*. Não o piloto.
 
 O Copiloto IA é seu Exaesqueleto Mental. Ele amplifica sua capacidade cognitiva. Libera seu CEO Focado para fazer o que só ele pode fazer: tomar a decisão final.
 
-## A Nova Harmonia: Você como Maestro
+## A nova harmonia: você como maestro
 
 Imagine que Carlos, em vez de deixar os três músicos brigarem, se tornasse o maestro dessa orquestra.
 
@@ -154,7 +154,7 @@ O resultado? Sessenta horas de trabalho com mais resultados que oitenta. Decisõ
 
 Não era mágica. Era orquestração.
 
-## O Próximo Passo
+## O próximo passo
 
 Mas aqui está a verdade que a maioria das pessoas ignora:
 
